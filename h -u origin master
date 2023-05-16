@@ -1,0 +1,9 @@
+user.name=AleksanderOrlovIT
+user.email=alexanderorlovkh@gmail.com
+core.autocrlf=input
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/AleksanderOrlovIT/spring5-webflux-rest.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
